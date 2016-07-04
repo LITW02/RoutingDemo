@@ -1,0 +1,5 @@
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication34\EnumTest\bin\Debug\EnumTest.dll.config
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication34\EnumTest\bin\Debug\EnumTest.dll
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication34\EnumTest\bin\Debug\EnumTest.pdb
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication34\EnumTest\obj\Debug\EnumTest.dll
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication34\EnumTest\obj\Debug\EnumTest.pdb
